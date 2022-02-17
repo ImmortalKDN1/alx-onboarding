@@ -1,0 +1,6 @@
+Pseudo Code
+
+Read num1
+Read num2
+Set result to (num1*num1)+(num2*num2)
+Write result
